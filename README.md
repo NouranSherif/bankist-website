@@ -37,7 +37,7 @@ The project focuses on modern DOM manipulation, scroll-based animations, and per
 
 ## 🚀 Live Demo
 
-🔗 [View Live Site](https://vercel.com/nouransherifs-projects/bankist-website)
+🔗 [View Live Site](https://bankist-website-swart.vercel.app/)
 
 ---
 
